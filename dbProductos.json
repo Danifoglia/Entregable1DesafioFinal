@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Honda",
+    "price": 270000,
+    "thumbnail": "https://lamoto.com.ar/wp-content/uploads/2020/08/HONDA-CBR600-3.jpeg",
+    "description": "CBR 600",
+    "stock": 12,
+    "date": "30/8/2022 21:32:46",
+    "id": 1
+  },
+  {
+    "title": "BMW",
+    "price": 300000,
+    "thumbnail": "https://www.diariomotor.com/imagenes/2019/07/yamaha-yzf-r1-2020-r1m-dm-7.jpg",
+    "description": "s1000rr",
+    "stock": 7,
+    "date": "30/8/2022 21:33:08",
+    "id": 2
+  },
+  {
+    "title": "Kawasaki",
+    "price": 285000,
+    "thumbnail": "https://enduro21.com/images/2020/april/kawasaki-kx450-josh-strang/strang-babbitts_online_kawasaki_enduro21_1200.jpg",
+    "description": "KX 450F",
+    "stock": 6,
+    "date": "30/8/2022 22:06:08",
+    "id": 3
+  }
+]
